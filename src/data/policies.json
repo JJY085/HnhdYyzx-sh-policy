@@ -53,7 +53,7 @@
     "official_url": "https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/202512/t20251226_1402666.html",
     "official_fulltext_url": "https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/202512/P020251226622166557290.pdf",
     "significance": null,
-    "participant_relevance": "",
+    "participant_relevance": "学习提示：可从“中长期市场”角度阅读本政策，并与详情页列出的上海或区域关联政策对照。具体适用主体与执行义务以官方原文为准。",
     "last_verified": "2026-09-12",
     "supersedes": null,
     "superseded_by": null,
@@ -99,7 +99,7 @@
     "official_url": "https://zfxxgk.nea.gov.cn/2023-09/07/c_1310741791.htm",
     "official_fulltext_url": "https://zfxxgk.nea.gov.cn/1310741791_16950032432671n.pdf",
     "significance": null,
-    "participant_relevance": "",
+    "participant_relevance": "学习提示：可从“现货市场”角度阅读本政策，并与详情页列出的上海或区域关联政策对照。具体适用主体与执行义务以官方原文为准。",
     "last_verified": "2026-09-12",
     "supersedes": null,
     "superseded_by": null,
@@ -129,7 +129,8 @@
     "subjects": [],
     "document_date": "2023-09-07",
     "verification_sources": [
-      "https://zfxxgk.nea.gov.cn/2023-09/07/c_1310741791.htm"
+      "https://zfxxgk.nea.gov.cn/2023-09/07/c_1310741791.htm",
+      "https://zfxxgk.nea.gov.cn/1310741791_16950032432671n.pdf"
     ]
   },
   {
@@ -141,7 +142,7 @@
     "official_url": "https://www.nea.gov.cn/20250429/df8e465e859245039b24fbbe21f04c5f/c.html",
     "official_fulltext_url": "https://www.nea.gov.cn/20250429/df8e465e859245039b24fbbe21f04c5f/1590532f26ed4320ab7f6c86757f5c42.pdf",
     "significance": null,
-    "participant_relevance": "",
+    "participant_relevance": "学习提示：可从“辅助服务”角度阅读本政策，并与详情页列出的上海或区域关联政策对照。具体适用主体与执行义务以官方原文为准。",
     "last_verified": "2026-09-12",
     "supersedes": null,
     "superseded_by": null,
@@ -172,7 +173,8 @@
       "储能"
     ],
     "verification_sources": [
-      "https://www.nea.gov.cn/20250429/df8e465e859245039b24fbbe21f04c5f/c.html"
+      "https://www.nea.gov.cn/20250429/df8e465e859245039b24fbbe21f04c5f/c.html",
+      "https://www.nea.gov.cn/20250429/df8e465e859245039b24fbbe21f04c5f/1590532f26ed4320ab7f6c86757f5c42.pdf"
     ]
   },
   {
@@ -229,7 +231,7 @@
     "official_url": "https://zfxxgk.nea.gov.cn/2024-01/31/c_1310763726.htm",
     "official_fulltext_url": null,
     "significance": null,
-    "participant_relevance": "",
+    "participant_relevance": "学习提示：可从“信息披露”角度阅读本政策，并与详情页列出的上海或区域关联政策对照。具体适用主体与执行义务以官方原文为准。",
     "last_verified": "2026-09-12",
     "supersedes": null,
     "superseded_by": null,
@@ -250,7 +252,7 @@
     ],
     "background": "市场化交易需要充分、及时、对称的信息。各地披露内容和时效差异会影响公平交易，因此需要统一基本标准。",
     "main_content": "1. 明确信息披露主体。\n2. 对公开信息、特定信息等进行分类。\n3. 规定市场运营、供需、价格、交易结果等披露要求。\n4. 明确披露时效、准确性和责任。\n5. 建立信息披露监督机制。",
-    "core_rules": "",
+    "core_rules": "信息披露应按规定区分信息类别，并由对应责任主体按时提供。\n交易数据的可获得时间应与披露要求对照，不能将尚未披露的信息视作已经可用。",
     "notes": "官方信息公开页所列日期为制发日期；发布日期暂沿用项目资料，尚未单独确认公开时间。",
     "verification": "发布信息已核验；摘要以项目资料为基础",
     "source_date": "2026-09-12",
@@ -270,7 +272,7 @@
     "official_url": "https://www.nea.gov.cn/20250808/7f95f94550d64fa7bb428972a5b237e4/c.html",
     "official_fulltext_url": "https://www.nea.gov.cn/20250808/7f95f94550d64fa7bb428972a5b237e4/202508087f95f94550d64fa7bb428972a5b237e4_25df7a7e0fa5bd47e0a35a4bad2199bd96.pdf",
     "significance": null,
-    "participant_relevance": "",
+    "participant_relevance": "学习提示：可从“计量结算”角度阅读本政策，并与详情页列出的上海或区域关联政策对照。具体适用主体与执行义务以官方原文为准。",
     "last_verified": "2026-09-12",
     "supersedes": null,
     "superseded_by": null,
@@ -293,14 +295,15 @@
     ],
     "background": "中长期、现货、辅助服务市场不断融合后，不同市场的计量和结算要求需要统一，否则容易产生重复结算、责任边界不清和账单争议。",
     "main_content": "1. 统一市场计量要求。\n2. 区分“形成结算依据”和“电费结算”。\n3. 规范结算数据、结算周期和账单。\n4. 对清算、追退补和异常数据处理作出规定。\n5. 推进现货连续运行地区规范化结算。",
-    "core_rules": "",
+    "core_rules": "计量结算应明确计量数据、结算依据与电费结算的责任边界。\n关注结算周期、清算及追退补安排，并将中长期、现货和辅助服务结算协同理解。",
     "notes": "",
     "verification": "发布信息已核验；摘要以项目资料为基础",
     "source_date": "2026-09-12",
     "status_note": "现行有效",
     "subjects": [],
     "verification_sources": [
-      "https://www.nea.gov.cn/20250808/7f95f94550d64fa7bb428972a5b237e4/c.html"
+      "https://www.nea.gov.cn/20250808/7f95f94550d64fa7bb428972a5b237e4/c.html",
+      "https://www.nea.gov.cn/20250808/7f95f94550d64fa7bb428972a5b237e4/202508087f95f94550d64fa7bb428972a5b237e4_25df7a7e0fa5bd47e0a35a4bad2199bd96.pdf"
     ]
   },
   {
@@ -352,7 +355,7 @@
     "official_url": "https://pmos.sh.sgcc.com.cn/pxf-settlement-outnetpub/#/pxf-settlement-outnetpub/unstructedInfo?flag=1&eventContent=%E4%BF%A1%E6%81%AF%E6%8A%AB%E9%9C%B2-%E7%BB%BC%E5%90%88%E6%9F%A5%E8%AF%A2-%E6%96%87%E4%BB%B6%E9%A2%84%E8%A7%88&fileId=n6620ecd38c5f4002a105ac6da1c79f82",
     "official_fulltext_url": "https://pmos.sh.sgcc.com.cn/pxf-settlement-outnetpub/#/pxf-settlement-outnetpub/unstructedInfo?flag=1&eventContent=%E4%BF%A1%E6%81%AF%E6%8A%AB%E9%9C%B2-%E7%BB%BC%E5%90%88%E6%9F%A5%E8%AF%A2-%E6%96%87%E4%BB%B6%E9%A2%84%E8%A7%88&fileId=n6620ecd38c5f4002a105ac6da1c79f82",
     "significance": null,
-    "participant_relevance": "",
+    "participant_relevance": "学习提示：可从“现货市场”角度阅读本政策，并与详情页列出的上海或区域关联政策对照。具体适用主体与执行义务以官方原文为准。",
     "last_verified": null,
     "supersedes": null,
     "superseded_by": null,
@@ -404,7 +407,7 @@
     "official_url": "https://hdj.nea.gov.cn/xxgk/fdzdgknr/gfxwj/hdnyjgfxwj/",
     "official_fulltext_url": "https://hdj.nea.gov.cn/xxgk/fdzdgknr/gfxwj/hdnyjgfxwj/202603/P020260331593974942947.pdf",
     "significance": null,
-    "participant_relevance": "",
+    "participant_relevance": "学习提示：可从“中长期市场”角度阅读本政策，并与详情页列出的上海或区域关联政策对照。具体适用主体与执行义务以官方原文为准。",
     "last_verified": "2026-09-12",
     "supersedes": null,
     "superseded_by": null,
@@ -447,7 +450,7 @@
     "official_url": "https://fgw.sh.gov.cn/fgw_jggl/20260211/35cf80d1b101492dacbad5a6c9504c6b.html",
     "official_fulltext_url": null,
     "significance": null,
-    "participant_relevance": "",
+    "participant_relevance": "学习提示：可从“价格机制”角度阅读本政策，并与详情页列出的上海或区域关联政策对照。具体适用主体与执行义务以官方原文为准。",
     "last_verified": "2026-09-12",
     "supersedes": null,
     "superseded_by": null,
@@ -489,7 +492,7 @@
     "official_url": "https://fgw.sh.gov.cn/fgw_jggl/20250804/dabf972a3f494bf79a8774dc786e8b7d.html",
     "official_fulltext_url": null,
     "significance": null,
-    "participant_relevance": "",
+    "participant_relevance": "学习提示：可从“新能源”角度阅读本政策，并与详情页列出的上海或区域关联政策对照。具体适用主体与执行义务以官方原文为准。",
     "last_verified": "2026-09-12",
     "supersedes": null,
     "superseded_by": null,
@@ -742,7 +745,7 @@
     "official_url": "https://hdj.nea.gov.cn/dtyw/tzgg/202406/t20240625_265070.html",
     "official_fulltext_url": "https://hdj.nea.gov.cn/dtyw/tzgg/202406/P020240625650022926317.pdf",
     "significance": null,
-    "participant_relevance": "",
+    "participant_relevance": "学习提示：可从“跨省互济”角度阅读本政策，并与详情页列出的上海或区域关联政策对照。具体适用主体与执行义务以官方原文为准。",
     "last_verified": "2026-09-12",
     "supersedes": null,
     "superseded_by": null,
@@ -762,7 +765,7 @@
     ],
     "background": "长三角不同省市新能源出力和负荷峰谷存在时间差，可通过跨省互济减少弃风弃光并提升资源配置效率。",
     "main_content": "1. 建立富余新能源省市间互济交易。\n2. 允许相关新型经营主体参与。\n3. 通过市场化方式促进新能源消纳。\n4. 与长三角电力市场建设衔接。",
-    "core_rules": "",
+    "core_rules": "互济交易用于长三角省市间富余新能源消纳，需与区域及省内交易安排衔接。",
     "notes": "",
     "verification": "发布信息已核验；摘要以项目资料为基础",
     "source_date": "2026-09-12",
@@ -771,7 +774,8 @@
       "储能"
     ],
     "verification_sources": [
-      "https://hdj.nea.gov.cn/dtyw/tzgg/202406/t20240625_265070.html"
+      "https://hdj.nea.gov.cn/dtyw/tzgg/202406/t20240625_265070.html",
+      "https://hdj.nea.gov.cn/dtyw/tzgg/202406/P020240625650022926317.pdf"
     ]
   },
   {
@@ -783,7 +787,7 @@
     "official_url": "https://hdj.nea.gov.cn/dtyw/tzgg/202406/t20240625_265070.html",
     "official_fulltext_url": "https://hdj.nea.gov.cn/dtyw/tzgg/202406/P020240625650023101520.pdf",
     "significance": null,
-    "participant_relevance": "",
+    "participant_relevance": "学习提示：可从“跨省互济”角度阅读本政策，并与详情页列出的上海或区域关联政策对照。具体适用主体与执行义务以官方原文为准。",
     "last_verified": "2026-09-12",
     "supersedes": null,
     "superseded_by": null,
@@ -800,9 +804,9 @@
       "可调节负荷",
       "跨省互济"
     ],
-    "background": "",
+    "background": "通过省市间需求侧资源互济，提升区域高峰保供和调节能力。",
     "main_content": "1. 将需求侧可调节资源引入省间互济。\n2. 提升长三角高峰保供和系统调节能力。\n3. 为虚拟电厂、电动汽车、储能等跨省价值变现提供制度基础。",
-    "core_rules": "",
+    "core_rules": "需求侧可调节资源参与跨省互济需符合对应交易规则，主体标签不等于准入许可。",
     "notes": "",
     "verification": "发布信息已核验；摘要以项目资料为基础",
     "source_date": "2026-09-12",
@@ -812,7 +816,8 @@
       "虚拟电厂"
     ],
     "verification_sources": [
-      "https://hdj.nea.gov.cn/dtyw/tzgg/202406/t20240625_265070.html"
+      "https://hdj.nea.gov.cn/dtyw/tzgg/202406/t20240625_265070.html",
+      "https://hdj.nea.gov.cn/dtyw/tzgg/202406/P020240625650023101520.pdf"
     ]
   },
   {
