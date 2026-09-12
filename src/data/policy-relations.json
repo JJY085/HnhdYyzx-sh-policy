@@ -1,0 +1,127 @@
+[
+  {
+    "source": "POLICY-N001",
+    "target": "POLICY-N002",
+    "type": "implements"
+  },
+  {
+    "source": "POLICY-N001",
+    "target": "POLICY-N003",
+    "type": "implements"
+  },
+  {
+    "source": "POLICY-N001",
+    "target": "POLICY-N004",
+    "type": "implements"
+  },
+  {
+    "source": "POLICY-N001",
+    "target": "POLICY-N005",
+    "type": "implements"
+  },
+  {
+    "source": "POLICY-N001",
+    "target": "POLICY-N006",
+    "type": "implements"
+  },
+  {
+    "source": "POLICY-N001",
+    "target": "POLICY-N007",
+    "type": "implements"
+  },
+  {
+    "source": "POLICY-N002",
+    "target": "POLICY-SH002",
+    "type": "implements"
+  },
+  {
+    "source": "POLICY-N002",
+    "target": "POLICY-EC001",
+    "type": "implements"
+  },
+  {
+    "source": "POLICY-N002",
+    "target": "POLICY-SH005",
+    "type": "related"
+  },
+  {
+    "source": "POLICY-N003",
+    "target": "POLICY-SH001",
+    "type": "implements"
+  },
+  {
+    "source": "POLICY-N003",
+    "target": "POLICY-SH003",
+    "type": "implements"
+  },
+  {
+    "source": "POLICY-N004",
+    "target": "POLICY-EC002",
+    "type": "implements"
+  },
+  {
+    "source": "POLICY-N004",
+    "target": "POLICY-PENDING-001",
+    "type": "implements"
+  },
+  {
+    "source": "POLICY-N008",
+    "target": "POLICY-SH004",
+    "type": "implements"
+  },
+  {
+    "source": "POLICY-N008",
+    "target": "POLICY-SH006",
+    "type": "implements"
+  },
+  {
+    "source": "POLICY-SH001",
+    "target": "POLICY-SH002",
+    "type": "related"
+  },
+  {
+    "source": "POLICY-SH001",
+    "target": "POLICY-SH003",
+    "type": "related"
+  },
+  {
+    "source": "POLICY-SH001",
+    "target": "POLICY-SH004",
+    "type": "related"
+  },
+  {
+    "source": "POLICY-SH001",
+    "target": "POLICY-EC002",
+    "type": "related"
+  },
+  {
+    "source": "POLICY-SH001",
+    "target": "POLICY-EC001",
+    "type": "related"
+  },
+  {
+    "source": "POLICY-SH002",
+    "target": "POLICY-EC001",
+    "type": "related"
+  },
+  {
+    "source": "POLICY-SH002",
+    "target": "POLICY-SH005",
+    "type": "related"
+  },
+  {
+    "source": "POLICY-EC001",
+    "target": "POLICY-EC003",
+    "type": "related"
+  },
+  {
+    "source": "POLICY-EC001",
+    "target": "POLICY-EC004",
+    "type": "related"
+  },
+  {
+    "source": "POLICY-EC001",
+    "target": "POLICY-EC005",
+    "type": "related"
+  }
+]
