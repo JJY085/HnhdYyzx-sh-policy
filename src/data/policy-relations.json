@@ -123,5 +123,60 @@
     "source": "POLICY-EC001",
     "target": "POLICY-EC005",
     "type": "related"
+  },
+  {
+    "source": "POLICY-N009",
+    "target": "POLICY-N001",
+    "type": "related"
+  },
+  {
+    "source": "POLICY-N010",
+    "target": "POLICY-N001",
+    "type": "related"
+  },
+  {
+    "source": "POLICY-N011",
+    "target": "POLICY-N003",
+    "type": "related"
+  },
+  {
+    "source": "POLICY-N011",
+    "target": "POLICY-SH001",
+    "type": "related"
+  },
+  {
+    "source": "POLICY-N011",
+    "target": "POLICY-SH008",
+    "type": "related"
+  },
+  {
+    "source": "POLICY-SH008",
+    "target": "POLICY-SH002",
+    "type": "related"
+  },
+  {
+    "source": "POLICY-SH008",
+    "target": "POLICY-SH004",
+    "type": "related"
+  },
+  {
+    "source": "POLICY-SH009",
+    "target": "POLICY-SH010",
+    "type": "related"
+  },
+  {
+    "source": "POLICY-SH011",
+    "target": "POLICY-SH010",
+    "type": "related"
+  },
+  {
+    "source": "POLICY-SH011",
+    "target": "POLICY-SH012",
+    "type": "related"
+  },
+  {
+    "source": "POLICY-SH009",
+    "target": "POLICY-SH011",
+    "type": "related"
   }
 ]

@@ -894,5 +894,393 @@
     "verification_sources": [
       "https://hdj.nea.gov.cn/dtyw/jgdt/202609/t20260908_308390.html"
     ]
+  },
+  {
+    "short_title": "电力市场监管办法",
+    "sub_category": null,
+    "effective_date": "2024-06-01",
+    "publish_date": "2024-05-08",
+    "document_date": "2024-04-12",
+    "document_no": "国家发展改革委令2024年第18号",
+    "official_url": "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/202405/t20240506_1366319_ext.html",
+    "official_fulltext_url": "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/202405/P020240506362980905009.pdf",
+    "significance": null,
+    "supersedes": null,
+    "superseded_by": null,
+    "status": "已发布",
+    "notes": "",
+    "last_verified": "2026-09-15",
+    "source_date": "2026-09-15",
+    "verification": "已核对官方发布信息及摘要涉及的正文条款；未确认是否存在后续修订",
+    "batch": 2,
+    "id": "POLICY-N009",
+    "title": "电力市场监管办法",
+    "level": "国家",
+    "category": "市场监管",
+    "issuer": "国家发展和改革委员会",
+    "keywords": [
+      "市场监管",
+      "市场注册",
+      "信息披露",
+      "公平竞争",
+      "代理购电"
+    ],
+    "subjects": [
+      "发电企业",
+      "售电公司",
+      "电力用户",
+      "储能",
+      "虚拟电厂",
+      "电网企业"
+    ],
+    "one_line_summary": "明确电力市场成员的监管范围与责任，为统一市场的公平运行提供制度保障。",
+    "background": "市场主体和交易品种扩展后，需要统一监管边界，防止不公平交易。办法将储能、虚拟电厂和负荷聚合商等纳入监管对象。",
+    "main_content": "监管职责：国家能源局及其派出机构按职责监管。\n监管事项：覆盖准入、交易、结算、信息披露与资金管理。\n制度安排：规定规则修订、注册管理和监管措施。",
+    "core_rules": "注册：完成注册后方可交易。\n竞争：对串通报价和其他违规交易实施监管。\n电网服务：监管公平开放电网、输配电服务及代理购电。",
+    "participant_relevance": "上海发售电企业、用户及新型主体均需关注注册、合同履行和信息披露义务；交易与调度机构同样属于监管对象。",
+    "verification_sources": [
+      "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/202405/t20240506_1366319_ext.html",
+      "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/202405/P020240506362980905009.pdf"
+    ]
+  },
+  {
+    "short_title": "全国统一电力市场实施意见",
+    "sub_category": null,
+    "effective_date": null,
+    "publish_date": null,
+    "document_date": "2026-02-08",
+    "document_no": "国办发〔2026〕4号",
+    "official_url": "https://www.gov.cn/zhengce/content/202602/content_7057744.htm",
+    "official_fulltext_url": "https://www.hunan.gov.cn/zqt/zcsd/202602/t20260212_33915878.html",
+    "significance": null,
+    "supersedes": null,
+    "superseded_by": null,
+    "status": "已发布",
+    "notes": "官方原始发布页本次访问返回403；“政府转载全文”提供已读取的湖南省政府转载。原始发布日期暂未独立确认。",
+    "last_verified": "2026-09-15",
+    "source_date": "2026-09-15",
+    "verification": "中国政府网链接本次返回403；已通过湖南省政府转载正文核对文号、成文日期及摘要",
+    "batch": 2,
+    "id": "POLICY-N010",
+    "title": "关于完善全国统一电力市场体系的实施意见",
+    "level": "国家",
+    "category": "顶层政策",
+    "issuer": "国务院办公厅",
+    "verification_sources": [
+      "https://www.gov.cn/zhengce/content/202602/content_7057744.htm",
+      "https://www.hunan.gov.cn/zqt/zcsd/202602/t20260212_33915878.html"
+    ],
+    "fulltext_label": "政府转载全文",
+    "keywords": [
+      "统一电力市场",
+      "跨省交易",
+      "现货市场",
+      "中长期市场",
+      "辅助服务"
+    ],
+    "subjects": [
+      "发电企业",
+      "售电公司",
+      "电力用户",
+      "储能",
+      "虚拟电厂",
+      "电网企业"
+    ],
+    "one_line_summary": "部署全国统一电力市场的建设目标，推动省间与省内交易衔接。",
+    "background": "为减少市场分割、提升全国资源配置效率，文件统筹交易机制和市场基础制度，形成后续国家与地方规则的政策方向。",
+    "main_content": "体系建设：推动跨省跨区与省内交易融合。\n市场功能：完善现货、中长期及辅助服务等市场。\n制度保障：推动规则与标准统一，强化风险管理。",
+    "core_rules": "阶段目标：2030年基本建成、2035年全面建成全国统一电力市场体系。\n交易衔接：逐步探索一次申报量价、联合匹配供需。\n主体注册：推进一地注册、全国共享。\n执行边界：建设目标须通过配套规则落实。",
+    "participant_relevance": "上海参与者可据此理解跨省交易与本地市场的改革方向；具体申报和结算仍需查阅适用细则。"
+  },
+  {
+    "short_title": "电力现货连续运行地区市场建设指引",
+    "sub_category": null,
+    "effective_date": null,
+    "publish_date": null,
+    "document_date": "2025-09-02",
+    "document_no": "发改能源〔2025〕1171号",
+    "official_url": "https://www.nea.gov.cn/20250912/ebbfd999a23b440781f4e5a033abaf9e/c.html",
+    "official_fulltext_url": "https://www.nea.gov.cn/20250912/ebbfd999a23b440781f4e5a033abaf9e/20250912ebbfd999a23b440781f4e5a033abaf9e_51b14a6ef20c954f42a16c9e3044fa5875.pdf",
+    "significance": null,
+    "supersedes": null,
+    "superseded_by": null,
+    "status": "已发布",
+    "notes": "",
+    "last_verified": "2026-09-15",
+    "source_date": "2026-09-15",
+    "verification": "已核对官方发布信息及摘要涉及的正文条款；未确认是否存在后续修订",
+    "batch": 2,
+    "id": "POLICY-N011",
+    "title": "电力现货连续运行地区市场建设指引",
+    "level": "国家",
+    "category": "现货市场",
+    "issuer": "国家发展改革委、国家能源局",
+    "keywords": [
+      "现货市场",
+      "中长期市场",
+      "零售交易",
+      "容量补偿",
+      "市场力"
+    ],
+    "subjects": [
+      "发电企业",
+      "售电公司",
+      "电力用户",
+      "储能",
+      "虚拟电厂"
+    ],
+    "one_line_summary": "指导连续运行地区完善电能量、辅助服务、容量与零售机制。",
+    "background": "现货连续运行和新能源入市对市场协调提出新要求。指引支持各地优化价格信号及可靠供应机制，其他地区可参考。",
+    "main_content": "交易协调：优化现货出清、中长期连续交易及辅助服务。\n价值体现：研究可靠容量补偿。\n用户服务：提升零售透明度和批零价格传导。\n风险处置：规范市场力监测与市场干预。",
+    "core_rules": "参与方式：鼓励新型主体及用户报量报价。\n中长期：推动分时交易及D-2连续开市。\n辅助服务：推动调频与电能量联合出清。\n容量补偿：属于研究完善方向，不代表上海已实施统一补偿标准。",
+    "participant_relevance": "可对照上海现货与零售安排理解改革方向；当地运行参数以本地正式文件为准。",
+    "verification_sources": [
+      "https://www.nea.gov.cn/20250912/ebbfd999a23b440781f4e5a033abaf9e/c.html",
+      "https://www.nea.gov.cn/20250912/ebbfd999a23b440781f4e5a033abaf9e/20250912ebbfd999a23b440781f4e5a033abaf9e_51b14a6ef20c954f42a16c9e3044fa5875.pdf"
+    ]
+  },
+  {
+    "short_title": "2026年上海市电力直接交易年度工作方案",
+    "sub_category": null,
+    "effective_date": null,
+    "publish_date": "2025-12-15",
+    "document_date": "2025-12-12",
+    "document_no": "沪经信运〔2025〕843号",
+    "official_url": "https://sheitc.sh.gov.cn/cyfz/20251215/70a4477ef4224c108fb171c61da2be05.html",
+    "official_fulltext_url": "https://sheitc.sh.gov.cn/cmsres/85/85b5d96e27014bc1a88afebacc6a9242/dacd486ee8507664d75b5a66615e04c6.pdf",
+    "significance": null,
+    "supersedes": null,
+    "superseded_by": null,
+    "status": "已发布",
+    "notes": "合并补充表第7、9项，同一文件按中长期、零售和代理购电三个主题检索。年度安排及参数如有后续新规，从其规定。",
+    "last_verified": "2026-09-15",
+    "source_date": "2026-09-15",
+    "verification": "已核对官方发布信息及摘要涉及的正文条款；未确认是否存在后续修订",
+    "batch": 2,
+    "id": "POLICY-SH008",
+    "title": "2026年上海市电力直接交易年度工作方案",
+    "level": "上海",
+    "category": "中长期市场",
+    "categories": [
+      "中长期市场",
+      "零售交易",
+      "代理购电"
+    ],
+    "issuer": "上海市经济信息化委、上海市发展改革委",
+    "keywords": [
+      "年度交易",
+      "零售交易",
+      "代理购电",
+      "零售绑定",
+      "月内交易"
+    ],
+    "subjects": [
+      "发电企业",
+      "售电公司",
+      "电力用户",
+      "电网企业"
+    ],
+    "one_line_summary": "统筹2026年上海直接交易、零售绑定和代理购电安排。",
+    "background": "面向2026年供需形势与市场改革，方案把年度交易组织和经营主体业务落实到上海市场。",
+    "main_content": "市场范围：确定规模及参与主体。\n交易组织：安排年度、月度与月内交易。\n运营业务：规定计量结算、注册绑定与零售相关业务。\n代理购电：明确挂牌交易及价格形成安排。",
+    "core_rules": "市场规模：暂估500亿千瓦时。\n零售集中度：同一投资主体及关联售电公司的折算绑定电量不得超过该规模20%。\n月内交易：市内场内融合交易按工作日连续开市。\n执行边界：代理购电启动条件及具体时序结合交易公告确认。",
+    "participant_relevance": "售电公司和用户关注绑定及结算；发电企业关注交易组织；代理购电相关内容通过同一政策记录阅读。",
+    "verification_sources": [
+      "https://sheitc.sh.gov.cn/cyfz/20251215/70a4477ef4224c108fb171c61da2be05.html",
+      "https://sheitc.sh.gov.cn/cmsres/85/85b5d96e27014bc1a88afebacc6a9242/dacd486ee8507664d75b5a66615e04c6.pdf"
+    ]
+  },
+  {
+    "short_title": "上海市新型储能示范引领创新发展工作方案（2025—2030年）",
+    "sub_category": null,
+    "effective_date": null,
+    "publish_date": "2025-01-09",
+    "document_date": "2024-12-27",
+    "document_no": "沪府办发〔2024〕28号",
+    "official_url": "https://www.shanghai.gov.cn/nw12344/20250109/2bb7b4542a98446a9cdbf79c9eb9395d.html",
+    "official_fulltext_url": "https://www.shanghai.gov.cn/nw12344/20250109/2bb7b4542a98446a9cdbf79c9eb9395d.html",
+    "significance": null,
+    "supersedes": null,
+    "superseded_by": null,
+    "status": "已发布",
+    "notes": "本次已补齐上海市政府官方发布页及正文，原表“暂未找到”已更新。",
+    "last_verified": "2026-09-15",
+    "source_date": "2026-09-15",
+    "verification": "已核对官方发布信息及摘要涉及的正文条款；未确认是否存在后续修订",
+    "batch": 2,
+    "id": "POLICY-SH009",
+    "title": "上海市新型储能示范引领创新发展工作方案（2025—2030年）",
+    "level": "上海",
+    "category": "新型储能",
+    "issuer": "上海市人民政府办公厅",
+    "keywords": [
+      "新型储能",
+      "独立储能",
+      "用户侧储能",
+      "示范应用",
+      "安全管理"
+    ],
+    "subjects": [
+      "储能",
+      "电力用户",
+      "电网企业"
+    ],
+    "one_line_summary": "统筹储能示范应用、技术产业发展和项目管理。",
+    "background": "储能可提升系统灵活性并支撑能源转型。方案把应用示范与产业创新结合，为上海储能发展提供总体安排。",
+    "main_content": "应用：布局独立储能、用户侧储能和车网互动等场景。\n技术：推动安全、系统集成及长时储能创新。\n管理：健全建设、备案及安全管理体系。",
+    "core_rules": "独立储能：建立年度建设计划，项目须经相关评审。\n分类备案：独立储能和火电配储报市级相关部门，用户侧储能报区级相关部门。\n建设条件：备案后编制实施方案并开展第三方评审，落实开工条件。",
+    "participant_relevance": "储能投资者应先区分项目类型，再核对建设计划、备案与配套奖励条件，不能将规划支持理解为自动取得补贴。",
+    "verification_sources": [
+      "https://www.shanghai.gov.cn/nw12344/20250109/2bb7b4542a98446a9cdbf79c9eb9395d.html",
+      "https://www.shanghai.gov.cn/nw12344/20250109/2bb7b4542a98446a9cdbf79c9eb9395d.html"
+    ]
+  },
+  {
+    "short_title": "上海市新型电力系统调节能力奖励资金管理办法",
+    "sub_category": null,
+    "effective_date": null,
+    "publish_date": "2025-05-16",
+    "document_date": "2025-05-13",
+    "document_no": "沪发改规范〔2025〕5号",
+    "official_url": "https://fgw.sh.gov.cn/fgw_gfxwj/20250519/463852516eb64060b6962fb68c2b75fb.html",
+    "official_fulltext_url": "https://fgw.sh.gov.cn/fgw_gfxwj/20250519/463852516eb64060b6962fb68c2b75fb.html",
+    "significance": null,
+    "supersedes": null,
+    "superseded_by": null,
+    "status": "已发布",
+    "notes": "",
+    "last_verified": "2026-09-15",
+    "source_date": "2026-09-15",
+    "verification": "已核对官方发布信息及摘要涉及的正文条款；未确认是否存在后续修订",
+    "batch": 2,
+    "id": "POLICY-SH010",
+    "title": "上海市新型电力系统调节能力奖励资金管理办法",
+    "level": "上海",
+    "category": "支持政策",
+    "categories": [
+      "支持政策",
+      "新型储能",
+      "虚拟电厂"
+    ],
+    "issuer": "上海市发展改革委、上海市经济信息化委、上海市财政局",
+    "keywords": [
+      "调节能力",
+      "奖励资金",
+      "虚拟电厂",
+      "新型储能",
+      "V2G"
+    ],
+    "subjects": [
+      "储能",
+      "虚拟电厂"
+    ],
+    "one_line_summary": "明确虚拟电厂、车网互动和新型储能调节能力的奖励条件。",
+    "background": "为增强系统调节能力，办法将财政奖励与资源接入、响应能力和项目绩效挂钩。",
+    "main_content": "奖励对象：聚合平台、V2G及新型储能。\n资金管理：规定申报、技术校核、审核拨付和监督。\n绩效约束：考察实际调节表现及持续服务能力。",
+    "core_rules": "准入条件：平台须完成技术与商务注册，满足接入和运行考核要求。\n年度标准：2026—2028年平台和V2G标准每年递减5%，储能递减10%；适用年度按规定并网区间判断。\n持续服务：获奖项目服务年限至少8年，违规可能追回资金。",
+    "participant_relevance": "运营商应按项目类型、并网时间和技术条件核算资格；具体奖励金额须结合正文表格及申报要求确定。",
+    "verification_sources": [
+      "https://fgw.sh.gov.cn/fgw_gfxwj/20250519/463852516eb64060b6962fb68c2b75fb.html",
+      "https://fgw.sh.gov.cn/fgw_gfxwj/20250519/463852516eb64060b6962fb68c2b75fb.html"
+    ]
+  },
+  {
+    "short_title": "上海市虚拟电厂高质量发展工作方案",
+    "sub_category": null,
+    "effective_date": null,
+    "publish_date": "2024-07-10",
+    "document_date": "2023-12-18",
+    "document_no": "沪发改能源〔2023〕293号",
+    "official_url": "https://fgw.sh.gov.cn/fgw_2024ysqzzdgk/20240710/bf91d3939f2240f0bc6d158f55d94028.html",
+    "official_fulltext_url": "https://fgw.sh.gov.cn/fgw_2024ysqzzdgk/20240710/bf91d3939f2240f0bc6d158f55d94028.html",
+    "significance": null,
+    "supersedes": null,
+    "superseded_by": null,
+    "status": "已发布",
+    "notes": "成文于2023年，官方页面为2024年依申请转主动公开；阶段目标不代表已完成的实绩。",
+    "last_verified": "2026-09-15",
+    "source_date": "2026-09-15",
+    "verification": "已核对官方发布信息及摘要涉及的正文条款；未确认是否存在后续修订",
+    "batch": 2,
+    "id": "POLICY-SH011",
+    "title": "上海市虚拟电厂高质量发展工作方案",
+    "level": "上海",
+    "category": "虚拟电厂",
+    "issuer": "上海市能源工作领导小组办公室（上海市发展改革委代章）",
+    "keywords": [
+      "虚拟电厂",
+      "资源聚合",
+      "源网荷储",
+      "需求响应",
+      "商业模式"
+    ],
+    "subjects": [
+      "虚拟电厂",
+      "储能",
+      "售电公司",
+      "电力用户",
+      "电网企业"
+    ],
+    "one_line_summary": "建立上海虚拟电厂服务、推广、运营、收益和创新机制。",
+    "background": "上海峰谷差与低碳转型增加灵活调节需求。方案通过聚合分散资源，推动虚拟电厂形成长期运营模式。",
+    "main_content": "服务：完善调度平台、技术标准和运营规范。\n资源：重点拓展车网互动、储能、分布式能源及空调负荷。\n收益：推动市场参与和多元商业服务。",
+    "core_rules": "平台能力：支撑资源接入、监测、校核和效果评估。\n运营制度：提出制定准入退出、调度及考核结算规范的任务。\n资源聚合：推动运营商与用户合作；具体准入资格须按配套规则确认。",
+    "participant_relevance": "聚合商可据此理解发展路径，并结合运营规范和奖励办法评估技术与商业安排。",
+    "verification_sources": [
+      "https://fgw.sh.gov.cn/fgw_2024ysqzzdgk/20240710/bf91d3939f2240f0bc6d158f55d94028.html",
+      "https://fgw.sh.gov.cn/fgw_2024ysqzzdgk/20240710/bf91d3939f2240f0bc6d158f55d94028.html"
+    ]
+  },
+  {
+    "short_title": "上海市虚拟电厂运营管理规范及配套文件",
+    "sub_category": null,
+    "effective_date": null,
+    "publish_date": null,
+    "document_date": null,
+    "document_no": null,
+    "official_url": null,
+    "official_fulltext_url": null,
+    "significance": null,
+    "supersedes": null,
+    "superseded_by": null,
+    "status": "待补全文",
+    "notes": "本条是文件集合的跟踪记录，不作为已核验的正式细则。相关官方依据仅用于确认文件范围，不能替代规范全文。",
+    "last_verified": "2026-09-15",
+    "source_date": "2026-09-15",
+    "verification": "已核对相关官方方案中的文件名称及管理环节；规范正文、具体参数与版本待补",
+    "batch": 2,
+    "id": "POLICY-SH012",
+    "title": "上海市虚拟电厂运营管理规范及配套文件",
+    "level": "上海",
+    "category": "虚拟电厂",
+    "issuer": null,
+    "missing_source_reason": "截至2026-09-15，本次检索未找到运营管理规范及配套文件各自的独立官方发布页或完整附件。官方用户侧虚拟电厂建设实施方案列出了文件名称和覆盖环节，但不能据此确认各文件的最终版本、文号与实施日期。",
+    "verification_sources": [
+      "https://www.shanghai.gov.cn/xnysj/20250624/285dc214644a4891bf722cc9d22f3f28.html",
+      "https://fgw.sh.gov.cn/fgw_2024ysqzzdgk/20240710/bf91d3939f2240f0bc6d158f55d94028.html"
+    ],
+    "reference_sources": [
+      {
+        "url": "https://www.shanghai.gov.cn/xnysj/20250624/285dc214644a4891bf722cc9d22f3f28.html",
+        "label": "上海市用户侧虚拟电厂建设实施方案（相关依据）"
+      }
+    ],
+    "keywords": [
+      "虚拟电厂",
+      "运营管理",
+      "接入测试",
+      "注册退出",
+      "评估结算"
+    ],
+    "subjects": [
+      "虚拟电厂",
+      "电力用户",
+      "电网企业"
+    ],
+    "one_line_summary": "跟踪虚拟电厂接入、运行及评估规范；独立官方全文尚待补齐。",
+    "background": "虚拟电厂规模化运行需要统一技术和业务流程。相关官方方案提出配套规范建设任务，说明其在运营体系中的作用。",
+    "main_content": "已确认的文件范围：运营管理规范、接入技术要求、入网测试认证方案、运行效果评估方案。\n已确认的覆盖环节：平台建设、测试准入、注册退出、运行调用及评估结算。",
+    "core_rules": "待核对条款：准入门槛、测试指标、调度响应、结算算法及退出程序。\n目前没有取得规范全文，不将相关方案的任务描述写成已生效的操作要求。",
+    "participant_relevance": "运营商可用本条定位需要补齐的文件；办理业务前应取得适用版本的正式规范。"
   }
 ]

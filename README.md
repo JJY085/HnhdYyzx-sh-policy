@@ -28,6 +28,8 @@ npm run dev
 
 ## GitHub Pages
 
+2026-09-15 更新：第二批新增8个条目，总计29项。按补充表排除7项并合并重复年度方案；不删除首批已有记录。支持 `categories` 多主题筛选。7项取得正文（统一市场实施意见使用政府转载校核），1项虚拟电厂运营规范集合待补全文，使用 `missing_source_reason` 显示原因，`reference_sources` 提供相关依据。
+
 本次发布使用 `gh-pages` 分支根目录的构建产物。项目地址为 https://jjy085.github.io/HnhdYyzx-sh-policy/ 。
 
 ```sh
