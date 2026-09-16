@@ -3,7 +3,8 @@ if(graphData){
  const {policies,relations}=JSON.parse(graphData.textContent);
  const select=document.querySelector('#graph-select'),focus=document.querySelector('#graph-focus');
  const nodes=document.querySelector('#graph-nodes'),lines=document.querySelector('#graph-lines'),canvas=document.querySelector('#graph-canvas'),space=document.querySelector('#graph-space');
- let selected='',zoom=1;
+ const viewport=document.querySelector('.graph-scroll'),inspector=document.querySelector('.graph-inspector');
+ let selected='',zoom=1,autoFit=true;
  const levels=['国家','长三角','上海'],labels=['国家基础','区域协同','上海细则'];
  function draw(){
   const linked=relations.filter(r=>r.source===selected||r.target===selected);
@@ -11,6 +12,7 @@ if(graphData){
   const visible=policies.filter(p=>!selected||!focus.checked||neighbors.has(p.id));
   const positions=new Map();const counts=levels.map(l=>visible.filter(p=>p.level===l).length);
   const height=Math.max(340,80+Math.max(...counts)*110),width=1080;
+  if(autoFit&&viewport.clientWidth>0)zoom=Math.min(1,(viewport.clientWidth-2)/width);
   canvas.style.width=width+'px';canvas.style.height=height+'px';canvas.style.transform=`scale(${zoom})`;
   space.style.width=width*zoom+'px';space.style.height=height*zoom+'px';
   nodes.replaceChildren();lines.replaceChildren();lines.setAttribute('viewBox',`0 0 ${width} ${height}`);lines.setAttribute('width',width);lines.setAttribute('height',height);
@@ -34,11 +36,14 @@ if(graphData){
   document.querySelector('#graph-scale').textContent=Math.round(zoom*100)+'%';
   document.querySelector('#graph-message').textContent=`${visible.length} 个政策节点 · ${edges.length} 条关系${selected?' · 已选中：'+policies.find(p=>p.id===selected).title:''}`;
  }
- function choose(id){selected=id;select.value=id;document.querySelectorAll('.graph-detail').forEach(el=>el.hidden=el.id!=='inspect-'+id);document.querySelector('#graph-welcome').hidden=!!id;draw();}
+ function choose(id){selected=id;select.value=id;inspector.hidden=!id;document.querySelectorAll('.graph-detail').forEach(el=>el.hidden=el.id!=='inspect-'+id);document.querySelector('#graph-welcome').hidden=!!id;draw();}
  select.addEventListener('change',()=>choose(select.value));focus.addEventListener('change',draw);
- document.querySelector('#graph-reset').addEventListener('click',()=>{zoom=1;choose('');});
- document.querySelector('#graph-plus').addEventListener('click',()=>{zoom=Math.min(1.4,Math.round((zoom+.1)*10)/10);draw();});
- document.querySelector('#graph-minus').addEventListener('click',()=>{zoom=Math.max(.6,Math.round((zoom-.1)*10)/10);draw();});
+ const fit=()=>{autoFit=true;draw();viewport.scrollLeft=0;};
+ document.querySelector('#graph-fit').addEventListener('click',fit);
+ document.querySelector('#graph-reset').addEventListener('click',()=>{autoFit=true;choose('');viewport.scrollLeft=0;viewport.scrollTop=0;});
+ document.querySelector('#graph-plus').addEventListener('click',()=>{autoFit=false;zoom=Math.min(1.4,zoom+.1);draw();});
+ document.querySelector('#graph-minus').addEventListener('click',()=>{autoFit=false;zoom=Math.max(.2,zoom-.1);draw();});
+ new ResizeObserver(()=>{if(autoFit)draw();}).observe(viewport);
  document.querySelectorAll('.graph-inspector [data-graph-select]').forEach(el=>el.addEventListener('click',()=>choose(el.dataset.graphSelect)));
  draw();
 }
