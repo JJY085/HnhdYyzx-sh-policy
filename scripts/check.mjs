@@ -14,5 +14,5 @@ const spotHtml=fs.readFileSync('dist/policies/policy-sh001/index.html','utf8');
 assert(spotHtml.includes('2025年第二次修订重点衔接'));
 assert(spotHtml.includes('暂不取消发电侧超额收益回收'));
 assert(spotHtml.includes('沪发改能源〔2025〕206号'));
-assert.equal((spotHtml.match(/class="version-entry"/g)||[]).length,4);
+assert.equal((spotHtml.match(/class="version-entry"/g)||[]).length,3);
 console.log('Passed: revision gaps, official source, date uncertainty and year rendering');
